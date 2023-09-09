@@ -12,7 +12,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also![react (card modification) screencapture-localhost-3000-2023-09-09-11_47_05](https://github.com/muhammad3016/CardModification_React/assets/136165752/66330449-f1fa-4c68-9f5a-e81798e5cd46)
+ see any lint errors in the console.
 
 ### `npm test`
 
