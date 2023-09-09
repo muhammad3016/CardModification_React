@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
 .App {
   text-align: center;
 }
@@ -24,8 +26,26 @@
   color: white;
 }
 
+.main{
+  margin-top: 150px;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+h1{
+  width: 100%;
+  background-color: yellow;
+  color: red;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-family: 'Satisfy', cursive;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
 }
 
 @keyframes App-logo-spin {
